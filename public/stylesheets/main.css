@@ -278,7 +278,9 @@ li:last-child {
 }
 
 li a {
-  text-decoration: none;
+  text-decoration: underline;
+  font-variant: small-caps;
+  font-style: italic;
 }
 
 .current-page-item{
